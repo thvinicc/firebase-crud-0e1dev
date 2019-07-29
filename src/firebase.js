@@ -1,12 +1,13 @@
 import firebase from "firebase";
 
 const config = {
-  apiKey: "AIzaSyAhY8YyIb5Xfr2Kh2tgTHTEzDW5NOkp6j0",
-  authDomain: "fir-crud-2474f.firebaseapp.com",
-  databaseURL: "https://fir-crud-2474f.firebaseio.com",
-  projectId: "fir-crud-2474f",
-  storageBucket: "",
-  messagingSenderId: "326727019283"
+  apiKey: "AIzaSyAJ__mMbW_divMg2SOWJw5QtLcrYZ0wCXI",
+  authDomain: "usuarios-34cab.firebaseapp.com",
+  databaseURL: "https://usuarios-34cab.firebaseio.com",
+  projectId: "usuarios-34cab",
+  storageBucket: "usuarios-34cab.appspot.com",
+  messagingSenderId: "954173988358",
+  appId: "1:954173988358:web:413e7ba15503247c"
 };
 
 firebase.initializeApp(config);
